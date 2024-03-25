@@ -1,6 +1,8 @@
 # Hey 👋 What's up?
 
-<p align="center"> AMAZON WEB SERVICES   &nbsp; | &nbsp; LINUX &nbsp; | &nbsp; DEVOPS &nbsp; | &nbsp; Cloud </p>
+<p align="center"> 
+  AMAZON WEB SERVICES &nbsp; | &nbsp; LINUX &nbsp; | &nbsp; DEVOPS &nbsp; | &nbsp; Cloud 
+</p>
 
 ## Languages and Tools
 
